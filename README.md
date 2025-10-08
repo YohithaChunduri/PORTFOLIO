@@ -50,8 +50,8 @@ This repository contains my professional portfolio showcasing my work, skills, a
 ## Contact Information
 
 - **GitHub**: [YohithaChunduri](https://github.com/YohithaChunduri)
-- **Email**: Available upon request
-- **LinkedIn**: Connect with me on LinkedIn
+- **Email**: Available upon request(yohithachunduri78@gmail.com)
+- **LinkedIn**: Connect with me on LinkedIn(https://www.linkedin.com/in/yohitha-chunduri-9558a0369/)
 
 ## Get In Touch
 
